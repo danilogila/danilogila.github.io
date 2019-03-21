@@ -14,10 +14,8 @@ author: danilogila
 description: Uma breve introdução ao Shell Script
 ---
 
-{% highlight raw %}
 ![Markdowm Image][assets/images/linux_terminal_wallpaper.png]{: class="bigger-image" }
 <figcaption class="caption">Foto por Digital Ocean</figcaption>
-{% endhighlight %}
 
 ## Introdução:
 
