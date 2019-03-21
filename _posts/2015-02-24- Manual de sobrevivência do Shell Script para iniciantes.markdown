@@ -1,5 +1,5 @@
 ---
-title: "2015-02-24- Manual de sobrevivência do Shell Script para iniciantes"
+title: Manual de sobrevivência do Shell Script para iniciantes
 layout: post
 date: 2019-03-21 18:00
 image: /assets/images/linux_terminal_wallpaper.png
@@ -10,8 +10,8 @@ tag:
 - Shell Script
 - MacOS
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: danilogila
+description: Uma breve introdução ao Shell Script
 ---
 
 ## Introdução:
@@ -20,7 +20,7 @@ Ainda me lembro quando vi um terminal do Linux pela primeira vez. Fiquei espanta
 
 O objetivo dessa postagem é compartilhar um pouco da minha evolução com o Shell Script e mostrar que não precisamos ter medo de utilizá-lo. Veremos que no final ele será um grande aliado da nossa produtividade no ambiente de trabalho :)
 
-###Antes de tudo…
+### Antes de tudo…
 
 Antes de começarmos, abra um terminal de sua preferência. Depois disso, iremos dar início ao nosso estudo do Shell. Veremos que será possível navegar entre diretórios, criar arquivos e muito mais.
 
