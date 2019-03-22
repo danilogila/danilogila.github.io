@@ -13,34 +13,15 @@ author: jamesfoster
 description: Markdown summary with different options
 ---
 
-## Summary:
+## Introdução:
 
-You can pick as item to see how to apply in markdown.
+Ainda me lembro quando vi um terminal do Linux pela primeira vez. Fiquei espantado com o tanto de informações que tinham naquela estranha tela preta e isso me criou um certo pavor. Com o passar do tempo, fui estudando e conhecendo um pouco mais os comandos do Shell e percebi o quanto dominar aquele terminal seria produtivo para o meu dia-a-dia no estágio e na minha carreira profissional como um todo.
 
-#### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
+O objetivo dessa postagem é compartilhar um pouco da minha evolução com o Shell Script e mostrar que não precisamos ter medo de utilizá-lo. Veremos que no final ele será um grande aliado da nossa produtividade no ambiente de trabalho :)
 
-#### External Elements
-- [Gist](#gist)
-- [Codepen](#codepen)
-- [Slideshare](#slideshare)
-- [Videos](#videos)
+###Antes de tudo…
 
----
-
-## Evidence
-
-You can try the evidence!
-
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-
-{% highlight html %}
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-{% endhighlight %}
+Antes de começarmos, abra um terminal de sua preferência. Depois disso, iremos dar início ao nosso estudo do Shell. Veremos que será possível navegar entre diretórios, criar arquivos e muito mais.
 
 ---
 

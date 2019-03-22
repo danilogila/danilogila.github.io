@@ -37,7 +37,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Projetos</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
