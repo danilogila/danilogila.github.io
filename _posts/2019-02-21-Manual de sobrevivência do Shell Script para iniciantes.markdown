@@ -3,7 +3,7 @@ title: "Manual de sobrevivência do Shell Script para iniciantes"
 layout: post
 date: 2019-03-21 18:00
 image: /assets/images/linux_terminal_wallpaper.png
-headerImage: false
+headerImage: true
 tag:
 - Linux
 - Terminal
