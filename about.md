@@ -4,43 +4,33 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Olá, me chamo Danilo Gila de Santana e atualmente estou me graduando em Ciência da Computação pela <a href="http://www.uezo.rj.gov.br/" target="_blank" rel="noreferrer">UEZO</a> (Centro Universitário Estadual da Zona Oeste) que está localizada no Rio de Janeiro. Há algum tempo, venho construindo alguns projetos interessantes focado no Front End para estudo e trabalho. Sou apaixonado por <strong>música</strong>, <strong>games</strong> e
+<strong>café</strong> ;)
+</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
+	<li>HTML5</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Css Frameworks (Bootstrap)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
 	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>ReactJS</li>
 	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
+	<li>Scrum e Kanban</li>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
 <h2>Projetos</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/danilogila/PokeDash">Pokedash - Online Pokedex</a></li>
+	<li><a href="https://github.com/danilogila/MovieRise">MovieRise - Catálogo de Filmes</a></li>
+	<li><a href="https://github.com/danilogila/Magic-TCG-React">Magic TCG - Card Stats</a></li>
+	<li><a href="https://github.com/danilogila/Secret-of-Mana">Secret of Mana - Fan site</a></li>
+	<li><a href="https://github.com/danilogila/Clima-Agora">Clima Agora - Previsão do Tempo</a></li>
 </ul>
