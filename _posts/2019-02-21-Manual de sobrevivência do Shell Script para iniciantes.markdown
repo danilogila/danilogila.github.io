@@ -31,7 +31,7 @@ Antes de começarmos, abra um terminal de sua preferência. Depois disso, iremos
 
 ### Listar arquivos e diretórios
 
-Para listar/exibir arquivos e pastas de um diretório basta usar o comando <code class="shell">ls</code>. Se olharmos bem, veremos que os arquivos são listados com uma cor diferente das pastas. Dependendo do terminal que você esteja utilizando, será exibida de forma parecida para facilitar a visualização do conteúdo. 
+Para listar/exibir arquivos e pastas de um diretório basta usar o comando <code class="shell">ls</code>. Se olharmos bem, veremos que os arquivos são listados com uma cor diferente das pastas. Dependendo do terminal que você esteja utilizando, será exibida de forma parecida para facilitar a visualização do conteúdo. Se o seu terminal não exibir dessa maneira, utilize <code class="shell">ls --color</code>.
 
 ![Markdowm Image](/assets/images/ls-command.gif)
 
@@ -43,7 +43,7 @@ Quando queremos mudar de diretório usamos o comando cd nome-do-diretório. Alé
 
 ### Criando e removendo diretórios
 
-Os comandos para criação e remoção de pastas são bem parecidos. Quando queremos criar um diretório utilizamos o <code class="shell">mkdir nome-do-diretório</code>. Para removermos o diretório utilizamos <code class="shell">rmdir nome-do-diretório</code>. Vale mencionar que se o diretório que você queira remover possui algum conteúdo dentro dele, devemos utilizar a flag <code class="shell">-rf</code> antes do nome do diretório. Isso garante que ele irá remover todas as subpastas e arquivos, mas use esse comando com bastante sabedoria pois uma vez executado, ele irá remover todos os arquivos sem uma pergunta de confirmação ou algo do tipo.
+Os comandos para criação e remoção de pastas são bem parecidos. Quando queremos criar um diretório utilizamos o <code class="shell">mkdir nome-do-diretório</code>. Para removermos o diretório utilizamos <code class="shell">rmdir nome-do-diretório</code>. Vale mencionar que se o diretório que você queira remover possui algum conteúdo dentro dele, devemos utilizar a flag <code class="shell">-r</code> antes do nome do diretório. Isso garante que ele irá remover todas as subpastas e arquivos, mas use esse comando com bastante sabedoria pois uma vez executado, ele irá remover todos os arquivos sem uma pergunta de confirmação ou algo do tipo.
 
 ![Markdowm Image](/assets/images/mk-rm-dir.gif)
 
